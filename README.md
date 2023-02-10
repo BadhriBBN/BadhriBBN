@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bathri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate front-back-end developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2019/12/892e8b39f44fa8fedd2be543dd3f5289.gif">
 
 - 🌱 I’m currently learning **React Native**
